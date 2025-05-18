@@ -1,0 +1,5 @@
+/workspaces/First-Repo/obj/Debug/net8.0/First-Repo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/First-Repo/obj/Debug/net8.0/First-Repo.AssemblyInfoInputs.cache
+/workspaces/First-Repo/obj/Debug/net8.0/First-Repo.AssemblyInfo.cs
+/workspaces/First-Repo/obj/Debug/net8.0/First-Repo.csproj.CoreCompileInputs.cache
+/workspaces/First-Repo/obj/Debug/net8.0/First-Repo.sourcelink.json
