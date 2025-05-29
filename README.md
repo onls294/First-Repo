@@ -6,3 +6,5 @@ Un Commit más desde Github
 Una actualizacion
 
 Cambios desde DevEditor
+
+Presiona <kbd>W</kbd>
